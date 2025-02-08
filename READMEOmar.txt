@@ -1,0 +1,1 @@
+I was only able to do the logic to get the if there was an oocupant or not in a room
